@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Thumbs.db
 *.obj
 *.exe
@@ -26,11 +25,3 @@ obj/
 [Rr]elease*/
 _ReSharper*/
 [Tt]est[Rr]esult*
-=======
-# Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
-bin
-obj
-
-# mstest test results
-TestResults
->>>>>>> 1a8f1179fdfe1858a829b4e1fd42524e7d6b75de
