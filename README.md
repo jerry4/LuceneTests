@@ -7,4 +7,5 @@ Wanted to learn git and interested in Lucene.net
 
 Commands I'll need
 git push -u origin master
-git mergetool
+git pull origin master
+git mergetool tortoisemerge file (didn't work for me this time???)
